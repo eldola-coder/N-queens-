@@ -163,10 +163,3 @@ The program will prompt for a board size between 1 and 10. Enter a number to com
 This project is released under the **MIT License**. You are free to use, modify, and distribute the code with attribution.
 
 ---
-
-If you would like, I can also:
-
-- Add the `main.cpp` source code to the repository file for you.
-- Provide a ready-to-copy `README.md` file or commit it directly to your repo (if you provide access).
-- Add build badges, contributor information, or an example screenshot.
-
